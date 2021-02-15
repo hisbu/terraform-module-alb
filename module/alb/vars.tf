@@ -1,0 +1,15 @@
+variable "ALB_NAME" {}
+variable "ALB_SCHEME" {}
+variable "ALB_TYPE" {}
+variable "ALB_SG" {}
+variable "SUBNETS" {}
+variable "ALB_DELETE_PROTEC" {}
+variable "TG_NAME" {}
+variable "TG_PORT" {}
+variable "TG_POROTO" {}
+variable "VPC_ID" {}
+variable "ALB_PORT" {}
+variable "ALB_PROTO" {}
+variable "LISTENER_TYPE" {}
+variable "TG_INSTANCE_ID" {}
+variable "INSTANCE_PORT" {}
